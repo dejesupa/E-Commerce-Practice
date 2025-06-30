@@ -106,10 +106,9 @@ li {
     display: none;
     justify-content: center;
     align-items: center;
-    
 }
 
-.menu--open .menu__backdrop{
+.menu--open .menu__backdrop {
     display: flex;
 }
 
@@ -382,8 +381,10 @@ footer {
     .nav__links {
         display: none;
     }
-}
+
 
 .btn__menu {
    display: block;
+}
+
 }
